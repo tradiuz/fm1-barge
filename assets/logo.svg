@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-labelledby="title">
+  <title id="title">Barge</title>
+  <rect width="128" height="128" rx="26" fill="#102b3f"/>
+  <path d="M24 75h80l-12 19H37z" fill="#e7a85b"/>
+  <path d="M40 72V39l42 33z" fill="#e8f1f2"/>
+  <path d="M20 101q12-8 24 0t24 0t24 0t24 0" fill="none" stroke="#55c6bd" stroke-linecap="round" stroke-width="6"/>
+  <path d="M57 43v29" stroke="#55c6bd" stroke-linecap="round" stroke-width="4"/>
+</svg>
